@@ -4644,7 +4644,7 @@
 		)
 		(uuid "65e8c35c-6c0c-46bc-b107-f7b5d0e1fdc8")
 	)
-	(text "TODO Now:\n- Coincell holder for CR2025:\n-- Use 3034TR from Keystone\n-- Add JLC part #\n- Connectors J1, J3:\n-- Make pads\n-- Add JLC part #\n\n- Add footprints for J2, U3 (Alex has footprints)\n- Review mounting hole sizes and update mechanical enclosure as needed"
+	(text "TODO:\n- Coincell holder for CR2025:\n-- Use 3034TR from Keystone\n-- Add JLC part #\n- Add footprints for J2, U3 (Alex has footprints)\n- Review mounting hole sizes and update mechanical enclosure as needed"
 		(exclude_from_sim no)
 		(at 17.272 246.126 0)
 		(effects
@@ -5094,7 +5094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BLE_Scale_V1:BC805M_No_Paste"
+		(property "Footprint" "FloMon:BC805M_No_Paste"
 			(at 90.17 179.07 0)
 			(effects
 				(font
@@ -6267,7 +6267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BLE_Scale_V1:Test_Wire_Pad_x4"
+		(property "Footprint" "FloMon:Test_Wire_Pad_x4"
 			(at 73.66 27.94 0)
 			(effects
 				(font
@@ -8723,7 +8723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BLE_Scale_V1:TC2030-IDC-NL"
+		(property "Footprint" "FloMon:TC2030-IDC-NL"
 			(at 55.88 171.45 0)
 			(effects
 				(font
@@ -9613,7 +9613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BLE_Scale_V1:Crystal_SMD_3215-2Pin_3.2x1.5mm"
+		(property "Footprint" "FloMon:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at 57.15 207.01 0)
 			(effects
 				(font
