@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FloMon")(type "KiCad")(uri "${KIPRJMOD}/FloMon.pretty")(options "")(descr ""))
+)
