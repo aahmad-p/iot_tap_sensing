@@ -1,4 +1,11 @@
-24197877487439863
+24201340065812276
+3034TR
+BAT_3034TR
+
+
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56993,6 +57000,13 @@ BC805M_No_Paste
 0
 14
 14
+FloMon
+CONN4_S4B-XH_JST
+
+S4B-XH-SM4-TB 
+0
+6
+6
 FloMon
 Crystal_SMD_3215-2Pin_3.2x1.5mm
 SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
