@@ -4820,26 +4820,12 @@
 		)
 		(uuid "65e8c35c-6c0c-46bc-b107-f7b5d0e1fdc8")
 	)
-	(text "TODO:\n- Review mounting hole sizes and update mechanical enclosure as needed\n- Check polarity of U1/U2"
+	(text "Note: J2, U3, U4 excluded from BOM"
 		(exclude_from_sim no)
-		(at 17.272 246.126 0)
+		(at 17.526 238.506 0)
 		(effects
 			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 255 15 6 1)
-			)
-			(justify left)
-		)
-		(uuid "a54cedf0-f020-4803-a26d-642238dca705")
-	)
-	(text "Notes:\n- J2, U3, U4 excluded from BOM"
-		(exclude_from_sim no)
-		(at 18.034 261.366 0)
-		(effects
-			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
 				(thickness 0.254)
 				(bold yes)
 				(color 255 17 38 1)
@@ -5474,7 +5460,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_PMOS_GSD"
+		(property "Value" "PMV48XP"
 			(at 96.52 48.2346 90)
 			(effects
 				(font
@@ -5491,7 +5477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201211530_TECH-PUBLIC-PMV48XP_C2959854.pdf"
 			(at 96.52 54.61 0)
 			(effects
 				(font
@@ -8092,7 +8078,7 @@
 				)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
+		(property "Value" "Sold_Jump_O"
 			(at 96.52 39.0144 0)
 			(effects
 				(font
@@ -8646,7 +8632,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a9bd0bed-f43f-4f51-b9fc-8215dffa2b4c")
 		(property "Reference" "JP1"
 			(at 74.93 49.53 0)
@@ -8656,8 +8641,8 @@
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 74.93 49.53 0)
+		(property "Value" "Sold_Jump_C"
+			(at 74.93 54.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9445,7 +9430,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_PMOS_GSD"
+		(property "Value" "PMV48XP"
 			(at 118.0846 34.29 90)
 			(effects
 				(font
@@ -9462,7 +9447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201211530_TECH-PUBLIC-PMV48XP_C2959854.pdf"
 			(at 124.46 34.29 0)
 			(effects
 				(font
