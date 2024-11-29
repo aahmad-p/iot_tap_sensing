@@ -1,0 +1,10 @@
+description: GPIO pin to trigger that the micro is ready to be shut off.
+
+compatible: "pm-done"
+
+properties:
+  gpios:
+    type: phandle-array
+    required: true
+    description: |
+      The GPIO connected to the done pin of the power gating timer

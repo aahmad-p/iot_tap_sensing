@@ -1,0 +1,35 @@
+/{
+     aliases {
+             pmdone = &pm_done;
+     };
+
+     pm_done: pm_done {
+         compatible = "pm-done";
+         gpios = <&gpio0 14 GPIO_ACTIVE_HIGH>;
+     };
+
+	buttons {
+		compatible = "gpio-keys";
+		button: button {
+			gpios = <&gpio0 4 GPIO_ACTIVE_HIGH>;
+		};
+	};
+
+};
+
+&uart0 {
+};
+
+&adc {
+	status = "disabled";
+};
+
+
+
+&i2c0 {
+	status = "disabled";
+};
+
+&spi0 {
+	status = "disabled";
+};
