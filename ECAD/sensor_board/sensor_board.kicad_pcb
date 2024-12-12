@@ -6298,7 +6298,7 @@
 		(property "Reference" "Y1"
 			(at 1.504 1.9304 90)
 			(layer "F.SilkS")
-			(uuid "65b493bf-a0ef-4e3f-a04a-a634a5c4c788")
+			(uuid "2ee89aa8-a0f9-4db7-940f-bd5728b341ac")
 			(effects
 				(font
 					(size 1 1)
@@ -6309,7 +6309,7 @@
 		(property "Value" "32.768kHz"
 			(at 0 2 90)
 			(layer "F.Fab")
-			(uuid "0aa3ca67-2f63-4398-b90f-a94cb07926ec")
+			(uuid "ff52229c-dafc-47eb-971e-e51a1b06c492")
 			(effects
 				(font
 					(size 1 1)
@@ -6321,7 +6321,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb0a2448-ade0-4be5-acb4-1e1e7356d1ac")
+			(uuid "67486126-462d-42d4-aeb8-5af91e3ec2f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6329,11 +6329,11 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135&lang=en"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d0d14a4-e7d1-46a6-b957-a5d19203e9cf")
+			(uuid "33c3569a-0c71-49f0-a8c8-fcd7025566b3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6345,7 +6345,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "abf59e1d-ffa7-4ec2-8424-b5ac55992af1")
+			(uuid "43fb0372-e308-4605-8674-11dc15688384")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6388,21 +6388,21 @@
 			(start -0.675 -0.875)
 			(end 0.675 -0.875)
 			(stroke
-				(width 0.15)
+				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1af7a044-e33b-4aca-a031-350367affa01")
+			(uuid "8735fcdb-2bb6-4bfb-a949-675972d35d99")
 		)
 		(fp_line
 			(start -0.675 0.875)
 			(end 0.675 0.875)
 			(stroke
-				(width 0.15)
+				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b2c56bc0-0fcd-44e9-8674-c1f90a70ff11")
+			(uuid "63510003-4bce-4ab7-b121-4085dd7650f6")
 		)
 		(fp_line
 			(start 2 -1.15)
@@ -6412,7 +6412,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "450d9098-890a-4b7a-b153-d1c3bed9382d")
+			(uuid "d5fb49ac-66a4-4adb-9ff5-0bf0f7883e74")
 		)
 		(fp_line
 			(start -2 -1.15)
@@ -6422,7 +6422,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "848a33d2-1095-4819-b70d-119ada24084d")
+			(uuid "cdaee82b-8e26-4119-8743-33a472008cbb")
 		)
 		(fp_line
 			(start -2 -1.15)
@@ -6432,7 +6432,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f2bbe94b-def0-4310-a570-110df0b026ba")
+			(uuid "7717a481-7a7f-4771-8fed-a720324e43e4")
 		)
 		(fp_line
 			(start -2 1.15)
@@ -6442,7 +6442,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b71a75f6-5e68-4c11-96ec-b23805fad8b5")
+			(uuid "7bf5f6e1-d09c-4fa1-80eb-a508c23c257c")
 		)
 		(fp_line
 			(start 1.6 -0.75)
@@ -6452,7 +6452,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7e776305-13c6-48e2-90bb-eda5003941c1")
+			(uuid "5528605f-8654-4878-a9cb-937bc6b5a52b")
 		)
 		(fp_line
 			(start -1.6 -0.75)
@@ -6462,7 +6462,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3e813491-d785-44dc-8ea6-ec3b524cd70e")
+			(uuid "4c3d6c95-d615-4550-b84b-ad9a1b6bfb02")
 		)
 		(fp_line
 			(start -1.6 -0.75)
@@ -6472,7 +6472,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e22ac85c-9649-41cb-8a85-12f089f51132")
+			(uuid "b89a19ba-94f5-4951-a3ca-3aaf332df9bd")
 		)
 		(fp_line
 			(start -1.6 0.75)
@@ -6482,12 +6482,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "97cc33ad-f334-497a-972d-b8c1ede5d658")
+			(uuid "404d49eb-d3b8-4fd2-aeee-fd7cb8ac48f7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.0308 0.1208 90)
 			(layer "F.Fab")
-			(uuid "f6728d3e-4439-40be-b28d-0a31c2b445d4")
+			(uuid "a4626815-ea38-4a3e-b5e6-f4b1c5e64de2")
 			(effects
 				(font
 					(size 1 1)
@@ -6502,7 +6502,7 @@
 			(net 5 "/Xb")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "2ca3da7a-0fd1-4328-8e52-24d0dd2c280e")
+			(uuid "c8c27ee0-2757-4d2a-a378-7c21ab3c1678")
 		)
 		(pad "2" smd rect
 			(at -1.25 0 90)
@@ -6511,17 +6511,17 @@
 			(net 4 "/Xa")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "297986ef-db14-46d4-8052-40fa4ef32ca1")
+			(uuid "a0173537-76d6-424a-9e06-25064b0ab4e3")
 		)
-		(model "${KIPRJMOD}/3D/NX3215SA-32.768K-EXS00A-MU00003.STEP"
+		(model "${KIPRJMOD}/3D/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.45 0.5 0.4)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz 0 0 0)
 			)
 		)
 	)

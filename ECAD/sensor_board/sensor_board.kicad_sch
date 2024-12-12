@@ -10172,7 +10172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135&lang=en"
 			(at 54.61 207.01 0)
 			(effects
 				(font
